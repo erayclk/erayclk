@@ -1,8 +1,16 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🌌 I'm currently working on: A mind map project to enhance idea visualization and organization, utilizing Jetpack Compose for an interactive and dynamic UI experience.<br><br>🤝 I'm looking to collaborate on: Open-source Android projects, especially those that focus on modern development practices like Compose, clean architecture, and advanced state management. I’m particularly interested in projects that promote community learning and innovation.<br><br>📝 I'm looking for help with: Finding new job opportunities where I can leverage my Android development skills, including experience with Jetpack Compose, Firebase, and Kotlin. I am also looking for guidance on how to effectively contribute to larger open-source projects.<br><br>🌱 I'm currently learning: Advanced Compose techniques, integrating APIs with Kotlin, and improving test coverage in Android applications. I am also exploring best practices for maintaining high code quality in collaborative environments.<br><br>💬 Ask me about: Android development, specifically UI design with Jetpack Compose, integrating backend services using Firebase, and building modular applications. I also have experience in QR and credit card payment integration.<br><br>⚡ Fun fact: I am passionate about blending creativity with technical skills, whether it's through building mobile apps or brainstorming innovative project ideas.
+🌌 Şu anda üzerinde çalışıyorum: Veri görselleştirme ve fikir organizasyonunu geliştirmeye yönelik bir "mind map" projesi. Python (Matplotlib/Plotly) ve interaktif dashboard araçları (Dash, Streamlit) kullanarak dinamik bir kullanıcı deneyimi oluşturuyorum.
 
+🤝 İşbirliği yapmak istediğim konular: Açık kaynaklı veri bilimi projeleri, özellikle makine öğrenmesi modelleri, veri pipelineları ve otomatik raporlama sistemleri. Topluluk öğrenimini destekleyen projelere katkıda bulunmak istiyorum.
+
+📝 Yardım aradığım konular: Veri bilimi alanında yeni iş fırsatları (özellikle ML mühendisliği, veri analitiği veya NLP rolleri). Ayrıca büyük ölçekli açık kaynak projelerine etkili katkı sağlama stratejileri.
+
+🌱 Şu anda öğreniyorum: Derin öğrenme (TensorFlow/PyTorch), büyük veri işleme (Spark/Dask) ve bulut tabanlı ML çözümleri (AWS SageMaker, GCP Vertex AI). Test odaklı veri bilimi (TDDA) ve kod kalitesi best practiceleri de ilgi alanım.
+
+💬 Bana sorabilecekleriniz: Veri analizi (Pandas, SQL), makine öğrenmesi model deployment, Python ile API entegrasyonları veya veri görselleştirme teknikleri. Ayrıca otomatik raporlama (Power BI, Tableau) ve veri pipelineları konusunda deneyimim var.
+
+⚡ Eğlenceli gerçek: Teknik becerilerimi yaratıcı projelerle birleştirmeye bayılıyorum—veri sanatı (data art) üretmek veya karmaşık veri kümelerinden şiir yazan NLP modelleri geliştirmek gibi!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eray.ce) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erayclk/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eray0505@yandex.com) 
