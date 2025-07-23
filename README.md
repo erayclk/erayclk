@@ -1,16 +1,6 @@
 ## Hi there 👋
 
-🌌 Şu anda üzerinde çalışıyorum: Veri görselleştirme ve fikir organizasyonunu geliştirmeye yönelik bir "mind map" projesi. Python (Matplotlib/Plotly) ve interaktif dashboard araçları (Dash, Streamlit) kullanarak dinamik bir kullanıcı deneyimi oluşturuyorum.
 
-🤝 İşbirliği yapmak istediğim konular: Açık kaynaklı veri bilimi projeleri, özellikle makine öğrenmesi modelleri, veri pipelineları ve otomatik raporlama sistemleri. Topluluk öğrenimini destekleyen projelere katkıda bulunmak istiyorum.
-
-📝 Yardım aradığım konular: Veri bilimi alanında yeni iş fırsatları (özellikle ML mühendisliği, veri analitiği veya NLP rolleri). Ayrıca büyük ölçekli açık kaynak projelerine etkili katkı sağlama stratejileri.
-
-🌱 Şu anda öğreniyorum: Derin öğrenme (TensorFlow/PyTorch), büyük veri işleme (Spark/Dask) ve bulut tabanlı ML çözümleri (AWS SageMaker, GCP Vertex AI). Test odaklı veri bilimi (TDDA) ve kod kalitesi best practiceleri de ilgi alanım.
-
-💬 Bana sorabilecekleriniz: Veri analizi (Pandas, SQL), makine öğrenmesi model deployment, Python ile API entegrasyonları veya veri görselleştirme teknikleri. Ayrıca otomatik raporlama (Power BI, Tableau) ve veri pipelineları konusunda deneyimim var.
-
-⚡ Eğlenceli gerçek: Teknik becerilerimi yaratıcı projelerle birleştirmeye bayılıyorum—veri sanatı (data art) üretmek veya karmaşık veri kümelerinden şiir yazan NLP modelleri geliştirmek gibi!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eray.ce) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erayclk/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eray0505@yandex.com) 
